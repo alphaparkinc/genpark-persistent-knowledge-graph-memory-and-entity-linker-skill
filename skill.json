@@ -1,0 +1,8 @@
+{
+  "name": "genpark-persistent-knowledge-graph-memory-and-entity-linker-skill",
+  "version": "1.0.0",
+  "description": "Builds a persistent entity-relation knowledge graph memory store with confidence scoring and multi-hop subgraph retrieval",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
